@@ -1,0 +1,7 @@
+xcuserdata
+*.perspectivev3
+.DS_Store
+*.pbxuser
+/build/
+*.app/
+
